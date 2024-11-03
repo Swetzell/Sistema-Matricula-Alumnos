@@ -1,0 +1,9 @@
+# Visual Studio archivos temporales, construcción y configuración
+.vs/
+*.user
+*.suo
+*.cache
+
+# Archivos de construcción de .NET
+bin/
+obj/
