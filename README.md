@@ -1,6 +1,6 @@
-# G1Matricula
+# Sistema-Matricula-Alumnos
 
-G1Matricula es un sistema CRUD (Crear, Leer, Actualizar, Eliminar) diseñado para gestionar la información de los estudiantes en un instituto. Este proyecto fue desarrollado como parte de un trabajo de clases en el instituto, utilizando .NET Framework y ADO.NET para el manejo de datos.
+Sistema-Matricula-Alumnos es un sistema CRUD (Crear, Leer, Actualizar, Eliminar) diseñado para gestionar la información de los estudiantes en un instituto. Este proyecto fue desarrollado como parte de un trabajo de clases en el instituto, utilizando .NET Framework y ADO.NET para el manejo de datos.
 
 La lógica de negocio del sistema se encarga de gestionar todas las operaciones relacionadas con la información de los estudiantes, asegurando que los datos sean manipulados de acuerdo con las reglas establecidas. Esto incluye la validación de datos ingresados, la gestión de errores y la implementación de las reglas necesarias para garantizar la integridad y consistencia de la información.
 
